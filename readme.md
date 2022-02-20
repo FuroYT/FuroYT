@@ -6,7 +6,7 @@
 
 Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_AZQ) ⋅ <!-- [Twitter](https://twitter.com/furo_gaming) ⋅ -->[GitHub](https://github.com/furoyt)**
 
-<!--![nintendofan44's GitHub stats](https://github-readme-stats.vercel.app/api?username=furoyt&show_icons=true&theme=radical)-->
+<!--![Furo's GitHub stats](https://github-readme-stats.vercel.app/api?username=furoyt&show_icons=true&theme=radical)-->
 
 <!--
 **FuroYT/FuroYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

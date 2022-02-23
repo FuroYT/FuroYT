@@ -6,7 +6,7 @@
 
 Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_AZQ) ⋅ [Twitter](https://twitter.com/furo_gaming) ⋅ [GitHub](https://github.com/furoyt)**
 
-**1\ VS Doflanico** (Currently Private)
+**1\ VS Doflanico** (Currently no code cause its in developement)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=FNF-VS-Doflanico&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/FNF-VS-Doflanico)
 
@@ -14,7 +14,7 @@ Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_A
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pokeyjojo&repo=fnf-vs-Iron-rob&show_owner=true&theme=tokyonight)](https://github.com/pokeyjojo/fnf-vs-Iron-rob)
 
-**3\ Super Funkin' 64** (Currently Private)
+**3\ Super Funkin' 64** (Currently no code cause its in developement)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=Super-Funkin-64&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/Super-Funkin-64)
 

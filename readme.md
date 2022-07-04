@@ -8,7 +8,7 @@ Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_A
 
 Cool links : **[My website](https://furoyt.tk)**
 
-**1\ VS Doflanico** (Currently in developement)
+**1\ VS Doflanico** (Almost finished)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=FNF-VS-Doflanico&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/FNF-VS-Doflanico)
 
@@ -19,14 +19,6 @@ Cool links : **[My website](https://furoyt.tk)**
 **3\ Super Funkin' 64** (Currently in developement)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=Super-Funkin-64&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/Super-Funkin-64)
-
-**4\ VS Skyla** (Idea by [Cameron/What's Up Digital](https://www.youtube.com/channel/UCSAPn4j8THm-m3q_GqToMVA)) (Currently in developement)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=fnf-vs-skyla&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/FNF-VS-Skyla)
-
-**5\ FNF Funky Melodies (Currently in developement)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=fnf-funky-melodies&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/FNF-Funky-Melodies)
 
 **FNF ENGINES USED**
 

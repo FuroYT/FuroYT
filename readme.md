@@ -8,7 +8,7 @@ Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_A
 
 Cool links : **[My website](https://furoyt.tk)**
 
-**1\ VS Doflanico** (Almost finished)
+**1\ VS Doflanico**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=FNF-VS-Doflanico&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/FNF-VS-Doflanico)
 

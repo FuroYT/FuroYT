@@ -1,31 +1,19 @@
 ### Hello
 
-- 🔭 I’m currently working on 5 fnf mods (yes for real)
-- 📫 How to reach me: [Discord]: Furo#1704
-- ⚡ Fun fact: Im a not a furry
+- 🔭 I’m currently working on 52 fnf mods (yes for real)
+- 📫 How to reach me: [Discord]: Furo#2024
+- ⚡ Fun fact: New Owner of [FNF Weird Engine](https://github.com/FuroYT/FNF-WeirdEngine]
 
 Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_AZQ) ⋅ [Twitter](https://twitter.com/furoyt_) ⋅ [GitHub](https://github.com/furoyt) ⋅ [Discord](https://discord.furoyt.tk)**
 
 Cool links : **[My website](https://furoyt.tk)**
 
-**1\ VS Doflanico**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=FNF-VS-Doflanico&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/FNF-VS-Doflanico)
-
-**2\ VS IRON R.O.B.** (Currently Private)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pokeyjojo&repo=fnf-vs-Iron-rob&show_owner=true&theme=tokyonight)](https://github.com/pokeyjojo/fnf-vs-Iron-rob)
-
-**3\ Super Funkin' 64** (Currently in developement)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furoyt&repo=Super-Funkin-64&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/Super-Funkin-64)
-
-**FNF ENGINES USED**
+****FNF ENGINES USED**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadowMario&repo=FNF-PsychEngine&show_owner=true&theme=tokyonight)](https://github.com/ShadowMario/FNF-PsychEngine)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KadeDev&repo=Kade-Engine&show_owner=true&theme=tokyonight)](https://github.com/KadeDev/Kade-Engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FuroYT&repo=FNF-WeirdEngine&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/FNF-WeirdEngine)
 
 <!--![Furo's GitHub stats](https://github-readme-stats.vercel.app/api?username=furoyt&show_icons=true&theme=radical)-->
 

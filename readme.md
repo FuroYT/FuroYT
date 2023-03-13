@@ -22,9 +22,9 @@ Cool links : **[My website](https://furoyt.tk)**
 -->
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=furoyt&show_icons=true&theme=tokyonight" alt="furoyt" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyt&hide_border=true&theme=tokyonight" alt="furoyt" />
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=furoyt&column=8&theme=discord&no-frame=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=furoyt&show_icons=true&count_private=true&show_icons=true&theme=tokyonight" alt="furoyt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyt&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="furoyt" />
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=furoyt&column=8&theme=discord&count_private=true&show_icons=true&no-frame=true"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furoyt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

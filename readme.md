@@ -1,17 +1,14 @@
 ### Hello
 
-- 🔭 I’m currently working on 52 fnf mods (yes for real)
-- 📫 How to reach me: Discord: Furo#2024
+- 🔭 I’m currently working on 20 fnf mods (yes for real)
+- 📫 How to reach me: Discord: Furo#2004
 - ⚡ Fun fact: New Owner of **[FNF Weird Engine](https://github.com/FuroYT/FNF-WeirdEngine)**
 
-Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_AZQ) ⋅ [Twitter](https://twitter.com/furoyt_) ⋅ [GitHub](https://github.com/furoyt) ⋅ [Discord](https://discord.furoyt.tk)**
+Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_AZQ) ⋅ [Twitter](https://twitter.com/furoyt_) ⋅ [GitHub](https://github.com/furoyt)**
 
-Cool links : **[My website](https://furoyt.tk)**
-
-****FNF ENGINES USED**
+****FNF ENGINES USED****
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadowMario&repo=FNF-PsychEngine&show_owner=true&theme=tokyonight)](https://github.com/ShadowMario/FNF-PsychEngine)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FuroYT&repo=FNF-WeirdEngine&show_owner=true&theme=tokyonight)](https://github.com/FuroYT/FNF-WeirdEngine)
 

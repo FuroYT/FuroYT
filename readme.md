@@ -1,7 +1,7 @@
 ### Hello
 
 - 🔭 I’m currently working on 20 fnf mods (yes for real)
-- 📫 How to reach me: Discord: Furo#2004
+- 📫 How to reach me: Discord: furoyt (Originally known as Furo#2004)
 - ⚡ Fun fact: New Owner of **[FNF Weird Engine](https://github.com/FuroYT/FNF-WeirdEngine)**
 
 Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_AZQ) ⋅ [Twitter](https://twitter.com/furoyt_) ⋅ [GitHub](https://github.com/furoyt) **

@@ -1,17 +1,25 @@
-### Hello
+<h1 align="center">Furo</h1>
+<h2 align="center">About me</h2>
 
-- 🔭 I’m currently working on 20 fnf mods (yes for real)
-- 📫 How to reach me: Discord: furoyt (Originally known as Furo#2004)
-- ⚡ Fun fact: New Owner of **[FNF Weird Engine](https://github.com/FuroYT/FNF-WeirdEngine)**
-
-Social Links: **[YouTube](https://www.youtube.com/channel/UCFnKasHMmr61WrSilVb_AZQ) ⋅ [Twitter](https://twitter.com/furoyt_) ⋅ [GitHub](https://github.com/furoyt) **
-
-<!--![Furo's GitHub stats](https://github-readme-stats.vercel.app/api?username=furoyt&show_icons=true&theme=radical)-->
-
-<!--
-**FuroYT/FuroYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyt&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="furoyt" />
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=furoyt&column=8&theme=discord&count_private=true&show_icons=true&no-frame=true"/>
+<h3 align="left">How to contact me</h3>
+<p>
+<center>
+  <a href="https://discord.com/users/796417250214674483" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5662F6&logo=Discord&logoColor=FFFFFF&label="/></a>
+  <a href="https://twitter.com/furoyt_" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=00acee&logo=Twitter&logoColor=FFFFFF&label="/></a>
+</center>
 </p>
+
+<h3>Software I use</h3>
+<p>
+<center>
+  <a href="https://haxe.org/" target="_blank" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Haxe&color=EA8220&logo=Haxe&logoColor=FFFFFF&label="/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="/></a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label="/></a>
+</center>
+</p>
+
+<h3>Projects I work in</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xDrMoe&repo=TownofHost-Enhanced&show_owner=true&theme=transparent&hide_border=true)](https://github.com/0xDrMoe/TownofHost-Enhanced)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FuroYT&repo=FNF-WeirdEngine&show_owner=true&theme=transparent&hide_border=true)](https://github.com/FuroYT/FNF-WeirdEngine)

@@ -20,6 +20,4 @@
 
 <h3>Projects I work in</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FNF-CNE-Devs&repo=CodenameEngine&show_owner=true&theme=transparent&hide_border=true)](https://github.com/FNF-CNE-Devs/CodenameEngine)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xDrMoe&repo=TownofHost-Enhanced&show_owner=true&theme=transparent&hide_border=true)](https://github.com/0xDrMoe/TownofHost-Enhanced)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodenameCrew&repo=CodenameEngine&show_owner=true&theme=transparent&hide_border=true)](https://github.com/CodenameCrew/CodenameEngine)
